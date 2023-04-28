@@ -1,6 +1,6 @@
 # Weather-App
 
-### The project is available on line hosted through Replit and can be viewed here:
+### The project is available on line hosted through my Replit account and can be viewed here:
 > https://weather-app.mrrud.repl.co
 
 ## Refrence Website
